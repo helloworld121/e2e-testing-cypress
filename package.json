@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/helloworld121/e2e-testing-cypress/issues"
   },
-  "homepage": "https://github.com/helloworld121/e2e-testing-cypress#readme"
+  "homepage": "https://github.com/helloworld121/e2e-testing-cypress#readme",
+  "devDependencies": {
+    "cypress": "^6.4.0"
+  }
 }
